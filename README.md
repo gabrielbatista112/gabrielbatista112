@@ -1,5 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/gabrielbatista112/gabrielbatista112/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+### Hi ! I'am Gabriel Batista .
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Back-end development in training <strong> passionate to discover new stuffs </strong> and use them to create high quality solutions . Today, I'm a <strong> student in training passionate about technology and seeking the goal of one day being a full stack </strong> . </p>&nbsp;
 
