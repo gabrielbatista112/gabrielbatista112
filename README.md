@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Batista;I'm+19+years+old;I'm+from+Brazil;I+Graduating+Computer+Science+Development;Be+Welcome!+:%29)](https://git.io/typing-svg);
 
+<br>
+
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Back-end development in training <strong> passionate to discover new stuffs </strong> and use them to create high quality solutions . Today, I'm a <strong> student in training passionate about technology and seeking the goal of one day being a full stack </strong> . </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
