@@ -1,8 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel Batista;I'm+19+years+old;I'm+from+Brazil;I+Graduating+Computer+Science+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carolbarbosa101&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Batista;I'm+19+years+old;I'm+from+Brazil;I+Graduating+Computer+Science+Development;Be+Welcome!+:%29)](https://git.io/typing-svg);
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Back-end development in training <strong> passionate to discover new stuffs </strong> and use them to create high quality solutions . Today, I'm a <strong> student in training passionate about technology and seeking the goal of one day being a full stack </strong> . </p>&nbsp;
 
